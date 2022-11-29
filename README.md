@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Getnet
+- 👋 Hi, My name is Getnet
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Alx progtamer
 - 💞️ I’m looking to collaborate on alx programing
