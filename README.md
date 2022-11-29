@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Getnet
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Alx progtamer
+- 🌱 I’m currently learning Alx progrmming
 - 💞️ I’m looking to collaborate on alx programing
 - 📫 How to reach me 0920352244
 
